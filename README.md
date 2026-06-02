@@ -20,7 +20,7 @@ pip install pydirectinput pyautogui keyboard
 
 ## Usage
 
-1. Clone or download the repo
+1. Clone or download the repo or downlaod the .exe to just skip to 4
 2. Install the requirements above
 3. Run CommandCenter.py
 4. Set your keycode and delay, then toggle with your hotkey
