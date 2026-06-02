@@ -6,11 +6,11 @@ Inside the folder is the source code aswell as the ico folder that contains the 
 
 ## Features
 
-- **AUTO-CLICKER** ANY OF THE 3 MOUSE BUTTONS OF CHOICE 
-- **MACRO** ANY BUTTON OF CHOICE 
-- **SETTINGS** ADJUSTABLE AND SAVEABLE
-- **FAIL-SAFE** A FAILSAFE THAT STOPS CRASHING MAY BE TURNED OFF IF NEEDED IN SETTINGS 
-- **CUSTOM-DELAY** DELAY THAT IS ALLOWED TO GO TO THE MINIMUM OF 0.0001
+- **AUTO-CLICKER** Supports any of the 3 mouse buttons of choice
+- **MACRO** Bind any key of your choice
+- **SETTINGS** Fully adjustable and saved automatically
+- **FAIL-SAFE** Prevents crashes at very low delays can be disabled in Settings
+- **CUSTOM-DELAY** Delay can be set as low as 0.0001s
 
 ## Requirements
 
@@ -27,12 +27,12 @@ pip install pydirectinput pyautogui keyboard
 
 ## Notes
 - Minimum delay is 0.0001s
-- Failsafe kicks in at delays below 0.001s after 10 seconds (can disable in Settings !Major Warning When doing so!)
+- Failsafe kicks in at delays below 0.001s after 10 seconds (can disable in Settings !Major warning When doing so!)
 - Hotkeys can be rebound in the Settings tab and are saved automatically
 
 ## Download
 
-Download the latest version here >> (https://github.com/SaltNugget/CommandCenter-Macro/releases/latest)
+Download the latest version here >> https://github.com/SaltNugget/CommandCenter-Macro/releases/latest
 
 ---
 Made by SaltNugget
