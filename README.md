@@ -14,7 +14,9 @@ Inside the folder is the source code aswell as the ico folder that contains the 
 
 ## Requirements
 
+```
 pip install pydirectinput pyautogui keyboard
+```
 
 ## Usage
 
