@@ -30,7 +30,7 @@ pip install pydirectinput pyautogui keyboard
 
 ## Download
 
-
+Download the latest version here >> (https://github.com/SaltNugget/CommandCenter-Macro/releases/latest)
 
 ---
 Made by SaltNugget
