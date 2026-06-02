@@ -1,6 +1,6 @@
 # CommandCenter 
 
-This is a PythonScript I made while bored it has a nice dark color scheme to it and has the following features
+This is a PythonScript I made while bored and i wanted to make a simple project it has a nice dark color scheme to it and has the following features
 
 Inside the folder is the source code aswell as the ico folder that contains the application icon used when packaging to .exe
 
